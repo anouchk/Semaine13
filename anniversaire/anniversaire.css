@@ -1,0 +1,116 @@
+body {
+	background-color: #769EDB;
+	}
+
+/*#container {
+	margin-top: 10px;
+	height : 600px;
+	width : 450px;
+}*/
+
+.col-xs-12 {
+	height: 4em;
+	font-size : 50px;
+	padding : 20px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align : center;
+}
+
+.jumbotron {
+	margin-top: 30px;
+    margin-bottom: 30px;
+	background-color: #feffef;
+	border : black dotted 10px;
+	font-family: 'Oleo Script Swash Caps', cursive;
+	border-radius: 10px;
+	text-align : center;
+}
+
+#clic {
+	background-color: #FFA0D5;
+	font-size : 20px ;
+	width : 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#phrases {
+	width : 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.newPhrase1 {
+	background-color: #FFA0D5;
+}
+
+.newPhrase2 {
+	background-color: #F95D47;
+}
+
+.newPhrase3 {
+	background-color: #fffcb1;
+}
+
+.newClic1 {
+	background-color: #F95D47;
+	font-size : 20px ;
+	width : 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.newClic2 {
+	background-color: #fffcb1 ;
+	font-size : 20px ;
+	width : 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.newClic3 {
+	background-color: #87bed8 ;
+	font-size : 20px ;
+	width : 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lastPhrase1 {
+	font-family: 'Monoton', cursive;
+	background-color : #00FFFF;
+	border-radius : 20px ;
+	font-size : 80px;
+	padding : 10px;
+	height: 2em;
+}
+
+.lastPhrase2 {
+	font-family: 'Monoton', cursive;
+	background-color : #00FFFF;
+	border-radius : 20px ;
+	font-size : 80px;
+	padding : 10px;
+	height: 2em;
+}
+
+.lastPhrase3 {
+	font-family: 'Monoton', cursive;
+	background-color : #00FFFF;
+	border-radius : 20px ;
+	font-size : 80px;
+	padding : 10px;
+	height: 2em;
+}
+
+.lastJumbotron {
+	font-family: 'Monoton', cursive;
+	background-color : #F95D47;
+}
+
+.lastBody {
+	background-image : url("tiki.jpg");
+}
